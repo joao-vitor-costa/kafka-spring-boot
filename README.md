@@ -12,4 +12,4 @@ Para os consumers temos a anotação KafkaListener, que marca o método anotado 
 
 O Exemplo a ser demonstrado é o famoso exemplo do producer e consumer, onde o producer é uma aplicação Spring Boot que disponibiliza um endpoint para receber a mensagem e quando recebido adiciona no tópico do Kafka e o consumer, que também é uma aplicação Spring Boot, que fica “escutando” o tópico do Kafka e logando as mensagens recebidas, como demonstrado na imagem abaixo.
 
-![kafka-exemplo](https://github.com/joao-vitor-costa/kafka-springboot/blob/master/img/kafka-exemplo.png)
+![kafka-exemplo](https://github.com/joao-vitor-costa/kafka-spring-boot/blob/master/img/kafka-exemplo.png)
